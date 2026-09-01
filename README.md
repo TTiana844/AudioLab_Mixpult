@@ -81,3 +81,4 @@ predvolený model (rovnako ako referenčný projekt). Ak budeš neskôr chcieť
 prejsť na iný model, stačí zmeniť reťazec `model` v `index.html`
 (funkcia `submitWork`) — `api/evaluate.js` model len prepošle ďalej, nemá ho
 natvrdo zakódovaný.
+   
