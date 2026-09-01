@@ -1,0 +1,10 @@
+{
+  "name": "mixpult-ulohy-ai-hodnotenie",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Odovzdávací systém pre 10 praktických cvičení na mixpulte Behringer X1222USB, s AI hodnotením cez Anthropic API (Vercel serverless funkcia).",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
